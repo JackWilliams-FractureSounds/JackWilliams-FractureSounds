@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello! :)) 👋
+
 
 <!--
 **JackWilliams-FractureSounds/JackWilliams-FractureSounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://github-readme-stats.vercel.app/api?username=JackWilliams-FractureSounds&show_icons=true&theme=tokyonight" align="center" width="50%">
 
 
 Here are some ideas to get you started:
@@ -17,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=JackWilliams-FractureSounds&show_icons=true&theme=tokyonight&count_private=true" align="center" width="50%"> -->
