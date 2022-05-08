@@ -3,7 +3,8 @@
 <!--
 **JackWilliams-FractureSounds/JackWilliams-FractureSounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackWilliams-FractureSounds)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=JackWilliams-FractureSounds&show_icons=true&theme=tokyonight" align="center" width="50%">
+
 
 Here are some ideas to get you started:
 
